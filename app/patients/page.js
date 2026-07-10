@@ -24,7 +24,7 @@ const branches = {
             'Lusaka Road , Bungoma Town ',
         hours:
             'Mon - Fri: 8:00 AM - 5:00 PM | Saturday: 8:00 AM - 1:00 PM | Sundays & Public Holidays: Closed',
-        email: 'info@samaritaneyecentre.co.ke',
+        email: 'samaritaneyecenter@gmail.com',
         phone: '0794 878 020',
         mapUrl:
             'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4408.201934497146!2d34.56444738698556!3d0.5854319525978579!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1781d7004da47285%3A0xfef6d9d1b9215893!2sSamaritan%20Eye%20Hospital-Bungoma!5e1!3m2!1sen!2ske!4v1780929144886!5m2!1sen!2ske',

@@ -140,10 +140,10 @@ const Footer = () => {
               <li className="flex items-center text-green-200">
                 <TfiEmail className="w-5 h-5 mr-3 flex-shrink-0" />
                 <a
-                  href="mailto:info@samaritaneyecentre.co.ke"
+                  href="mailto:samaritaneyecenter@gmail.com"
                   className="hover:text-white transition-colors"
                 >
-                  info@samaritaneyecentre.co.ke
+                  samaritaneyecenter@gmail.com
                 </a>
               </li>
 

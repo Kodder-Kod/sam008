@@ -15,7 +15,7 @@ const faq = [
   {
     question: "How do I book an appointment?",
     answer:
-      "Appointments can be booked by calling us at 0794 878 020, via email at info@samaritaneyecentre.co.ke, or by visiting us in person at Samaritan Eye Hospital, Lusaka Road, Bungoma Town, Bungoma County, Kenya."
+      "Appointments can be booked by calling us at 0794 878 020, via email at samaritaneyecenter@gmail.com, or by visiting us in person at Samaritan Eye Hospital, Lusaka Road, Bungoma Town, Bungoma County, Kenya."
   },
   {
     question: "What documents do I need for an eye consultation?",

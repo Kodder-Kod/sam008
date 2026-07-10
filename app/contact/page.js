@@ -159,8 +159,8 @@ const Contact = () => {
                 {
                   icon: FaEnvelope,
                   title: "Email",
-                  value: "info@samaritaneyecentre.co.ke",
-                  link: "mailto:info@samaritaneyecentre.co.ke",
+                  value: "samaritaneyecenter@gmail.com",
+                  link: "mailto:samaritaneyecenter@gmail.com",
                 },
                 {
                   icon: FaFacebookF,

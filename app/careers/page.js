@@ -440,7 +440,7 @@ export default function CareersAndTenders() {
                                     <div className="p-8 bg-white flex flex-col justify-center">
                                         <h2 className="sm:text-2xl text-xl font-bold text-gray-800">How to Apply</h2>
                                         <p className="mt-4 text-gray-600 text-md">Send your cover letter and CV to:</p>
-                                        <p className="mt-2 text-green-600 font-semibold text-md">info@samaritaneyecentre.co.ke</p>
+                                        <p className="mt-2 text-green-600 font-semibold text-md">samaritaneyecenter@gmail.com</p>
 
                                         <p className="mt-6 text-gray-600 text-md">Make sure to include:</p>
                                         <ul className="mt-2 list-disc list-inside text-gray-600 space-y-1 text-md">
